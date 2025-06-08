@@ -71,6 +71,11 @@ RISC-V编译器向量化Evaluation
 破解硬件细节，Volta
 - https://arxiv.org/pdf/1804.06826
 
+### 2.5 NPU硬件
+
+华为昇腾、MindSpore、CANN算子
+https://www.hiascend.com/document/detail/zh/CANNCommunityEdition/82RC1alpha002/index/index.html
+
 ### 2.5 GPU性能测试
 
 面上：Altis: Modernizing GPGPU Benchmarks
