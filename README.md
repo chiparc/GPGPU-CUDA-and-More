@@ -3,23 +3,23 @@
 
 # === 1. 涵义和范畴
 
-Why Nvidia GPGPU+CUDA
+### Why Nvidia GPGPU+CUDA
 在灵活性+性能+应用生态三个维度，GPGPU+CUDA是行业标准
 AI建立在PyTorch基础之上，GPGPU+CUDA占据了90%市场，其他follow和兼容GPGPU+CUDA
 
-GPGPU硬件
+### GPGPU硬件
 host-device, warp+simt是基础架构特征，并长期稳定
 随着AI的发展，逐步加入Tensor Core, TMA, Async and memory bypass等
 
-GPGPU软件
+### GPGPU软件
 一般的C编程考虑对上层应用的开发效率，用CUDA和优化CUDA为了运行效率，所以并行思维和硬件感知是不可避免的
 所以，CUDA编程容易上手，但是做好不易；近期大火的DeepSeek核心技术就是面向硬件特性的算法重构和软件优化
 
-学习与应用
+### 学习与应用
 硬件架构，软件编程及其代码
 学习GPGPU+CUDA一方面是用好做应用，进一步理解和编程自研架构，对比GPGPU+CUDA
 
-本文下一步
+### 本文下一步
 对范畴拓展、提炼
 文献介绍
 
