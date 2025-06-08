@@ -74,7 +74,7 @@ RISC-V编译器向量化Evaluation
 ### 2.5 NPU硬件
 
 华为昇腾、MindSpore、CANN算子
-https://www.hiascend.com/document/detail/zh/CANNCommunityEdition/82RC1alpha002/index/index.html
+- https://www.hiascend.com/document/detail/zh/CANNCommunityEdition/82RC1alpha002/index/index.html
 
 ### 2.5 GPU性能测试
 
